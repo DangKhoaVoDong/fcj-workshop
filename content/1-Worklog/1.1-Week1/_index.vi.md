@@ -16,7 +16,8 @@ pre: " <b> 1.1. </b> "
 
 | Thứ | Công việc                                                                                                                                      | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu                                         |
 | --- | ---------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | --------------- | ------------------------------------------------------ |
-| 2   | - Tham gia buổi orientation với các thành viên FCJ <br> - Đọc và nắm các quy định, nội quy của đơn vị <br> - Tìm hiểu về chương trình thực tập | 08/09/2025   | 08/09/2025      | [AWS Journey](https://cloudjourney.awsstudygroup.com/) |
+| 7   | - Tham gia buổi orientation với các thành viên FCJ <br> | 06/09/2025   | 06/09/2025      | [AWS Journey](https://cloudjourney.awsstudygroup.com/) |
+| 2   | - Đọc và nắm các quy định, nội quy của đơn vị <br> - Tìm hiểu về chương trình thực tập | 08/09/2025   | 08/09/2025      | [AWS Journey](https://cloudjourney.awsstudygroup.com/) |
 | 3-5 | - Nghiên cứu tổng quan về AWS Cloud Platform <br> - Đọc tài liệu về Cloud Computing và các khái niệm cơ bản <br> - Xem video giới thiệu về AWS | 09/09/2025   | 11/09/2025      | [AWS Journey](https://cloudjourney.awsstudygroup.com/) |
 | 6   | - Tạo tài khoản AWS Free Tier <br> - Hoàn tất xác minh thanh toán <br> - Đăng nhập và khám phá giao diện AWS Management Console                | 12/09/2025   | 12/09/2025      | [AWS Journey](https://cloudjourney.awsstudygroup.com/) |
 

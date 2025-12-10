@@ -16,7 +16,8 @@ pre: " <b> 1.1. </b> "
 
 | Day | Task                                                                                                                                                        | Start Date | Completion Date | Reference Material                                     |
 | --- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | --------------- | ------------------------------------------------------ |
-| 2   | - Attended orientation session with FCJ members <br> - Read and understood organization's rules and regulations <br> - Learned about the internship program | 09/08/2025 | 09/08/2025      | [AWS Journey](https://cloudjourney.awsstudygroup.com/) |
+| 7   | - Attended orientation session with FCJ members <br> | 06/08/2025 | 06/08/2025      | [AWS Journey](https://cloudjourney.awsstudygroup.com/) |
+| 2   | - Read and understood organization's rules and regulations <br> - Learned about the internship program | 09/08/2025 | 09/08/2025      | [AWS Journey](https://cloudjourney.awsstudygroup.com/) |
 | 3-5 | - Researched AWS Cloud Platform overview <br> - Read documentation about Cloud Computing and basic concepts <br> - Watched introduction videos about AWS    | 09/09/2025 | 09/11/2025      | [AWS Journey](https://cloudjourney.awsstudygroup.com/) |
 | 6   | - Created AWS Free Tier account <br> - Completed payment verification <br> - Logged in and explored AWS Management Console interface                        | 09/12/2025 | 09/12/2025      | [AWS Journey](https://cloudjourney.awsstudygroup.com/) |
 
